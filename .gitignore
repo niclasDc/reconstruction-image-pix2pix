@@ -14,3 +14,8 @@ venv/
 
 # vscode
 .vscode/
+
+# assets
+.assets/curtained_image/
+.assets/ground_truth_image/
+.assets/readme.txt
