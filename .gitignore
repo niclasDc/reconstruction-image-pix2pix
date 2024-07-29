@@ -19,3 +19,5 @@ venv/
 /assets/curtained_image/
 /assets/ground_truth_image/
 /assets/readme.txt
+/assets/logs/
+/assets/training_checkpoints/
