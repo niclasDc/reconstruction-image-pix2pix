@@ -1,4 +1,4 @@
-# Reconstruction Images to Pix2Pix
+# Reconstruction FIB-SEM Images
 
 ## About The Project
 
