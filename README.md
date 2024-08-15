@@ -41,7 +41,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Nicolas Alvarez - nialvareztt@unal.edu.co
+Nicolas Alvarez - nialvarezt@unal.edu.co - nicolas.alvatri@gmail.com
 
 Project Link: [https://github.com/niclasDc/reconstruction-image-pix2pix](https://github.com/niclasDc/reconstruction-image-pix2pix)
 
