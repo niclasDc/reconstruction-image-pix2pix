@@ -6,7 +6,7 @@ FIB-SEM is an advanced method for capturing structures at the nano-scale for the
 
 To resolve these problems, we adapted a generative model that help in to remove this curtains artifact and generate a performance quality better image.
 
-The implementation, the model can be found:
+The implementation of the model can be found:
 
 [Explore the notebooks](https://github.com/niclasDc/reconstruction-image-pix2pix/blob/master/notebooks/model_notebook.ipynb)
 
